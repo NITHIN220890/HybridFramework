@@ -14,7 +14,7 @@ import java.util.Locale;
 
 
 @CucumberOptions(
-        features = "src/test/resources/features/validateRetry.feature",
+        features = "src/test/resources/features/sm.feature",
         glue = {"steps"},  // Use array format to specify packages
         plugin = {
            "html:target/cucumber-report.html",
@@ -28,6 +28,7 @@ public class TestRunner extends AbstractTestNGCucumberTests {
     // DataProvider for parallel execution
     @Override
     @DataProvider(parallel = false)
+
     public Object[][] scenarios() {
         return super.scenarios();
     }

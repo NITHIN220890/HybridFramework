@@ -32,7 +32,7 @@ public class MyStepdefs {
     public void retryValidation() {
             int a,b;
             a =180;
-            b=0;
+            b=10;
             Log.info("Variable a "+a);
             Log.info("Variable b"+b);
             int result = a / b;
