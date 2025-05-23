@@ -1,0 +1,35 @@
+{
+  "NithinCustomerPayload": {
+    "Bankingholder": "Nithin",
+    "BankingAccount" : "7701531663",
+    "Banking_min_balance": "50000",
+    "Banking_max_transaction_24hrs": "100000",
+    "Banking_mode_operation": "ALL",
+    "Banking_swift_enablement": "Yes",
+    "currentAccount_status": "Activated",
+    "Vintage": ">3",
+    "cust_score": "+720"
+  },
+  "AkashCustomerPayload": {
+    "Bankingholder": "Akash",
+    "BankingAccount" : "7702413018",
+    "Banking_min_balance": "10000",
+    "Banking_max_transaction_24hrs": "10000",
+    "Banking_mode_operation": "NEFT",
+    "Banking_swift_enablement": "No",
+    "currentAccount_status": "NOT Activated",
+    "Vintage": "<1",
+    "cust_score": "+620"
+  },
+  "SahanaCustomerPayload": {
+    "Bankingholder": "Sahana",
+    "BankingAccount" : "670234125",
+    "Banking_min_balance": "10000",
+    "Banking_max_transaction_24hrs": "10000",
+    "Banking_mode_operation": "CASH",
+    "Banking_swift_enablement": "NA",
+    "currentAccount_status": "NA",
+    "Vintage": "NA",
+    "cust_score": "NA"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "checkingAccount": "$checkingAccount",
+  "checkingAccountID": "$checkingAccountID",
+  "BankingPartner" : "$BankingPartner",
+  "Bankingholder": "$Bankingholder",
+  "BankingAccount": "$BankingAccount",
+  "Banking_min_balance": "Banking_min_balance",
+  "Banking_max_transaction_24hrs": "$Banking_max_transaction_24hrs",
+  "Banking_mode_operation": "$Banking_mode_operation",
+  "Banking_swift_enablement": "$Banking_swift_enablement",
+  "currentAccount_status": "$currentAccount_status",
+  "Vintage": "$Vintage",
+  "cust_score": "$cust_score"
+}

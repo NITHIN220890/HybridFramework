@@ -1,0 +1,19 @@
+{
+  "SIT": {
+    "checkingAccount": "SIT",
+    "checkingAccountID": "1237895",
+    "BankingPartner" : "SIT_PartnerAssociation"
+
+  },
+  "QA": {
+    "checkingAccount": "QA",
+    "checkingAccountID": "142536",
+    "BankingPartner" : "QA_PartnerAssociation"
+
+  },
+  "DEV": {
+    "checkingAccount": "DEV",
+    "checkingAccountID": "809045",
+    "BankingPartner" : "DEV_PartnerAssociation"
+  }
+}
